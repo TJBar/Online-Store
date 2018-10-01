@@ -1,4 +1,3 @@
 # Online-Store
-Database project
 
-Test
+University Database project
